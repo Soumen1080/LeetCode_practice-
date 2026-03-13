@@ -1,3 +1,5 @@
+// what is a palindrome number ?
+// A palindrome number is a number that remains the same when its digits are reversed. For example, 121 is a palindrome number because it reads the same backward as forward, while 123 is not a palindrome number because it reads differently when reversed (321).
 #include <iostream>
 using namespace std;
 
